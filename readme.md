@@ -1,4 +1,4 @@
-# EVERY STEPS TO INSTALL IT CORRECTLY
+# EVERY STEP TO INSTALL IT CORRECTLY
 
 ### 1 - Install [SDK .NET](https://dotnet.microsoft.com/download)
 
