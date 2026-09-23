@@ -1,5 +1,7 @@
-git clone https://github.com/322sts/firstCsharp-Project
+#EVERY STEPS TO INSTALL IT CORRECTLY
 
-cd votre-repo
+1 - git clone https://github.com/322sts/firstCsharp-Project
 
-dotnet run
+2 - cd votre-repo
+
+3 - dotnet run
